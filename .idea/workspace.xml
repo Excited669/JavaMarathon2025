@@ -4,22 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd7a5dca-445c-4dcd-be2f-0148e565ff8c" name="Default Changelist" comment="">
+    <list default="true" id="cd7a5dca-445c-4dcd-be2f-0148e565ff8c" name="Default Changelist" comment="Added day 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day5/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day5/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day5/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day5/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task3Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task2Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task3Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day5/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day5/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day5/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day5/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/day2/Day2Task3Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day6/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day6/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day6/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day6/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day6/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day6/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day6/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day6/Task3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,6 +67,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day6" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Day2Task3Test.One_ninetyEight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaMarathon2020" />
@@ -107,11 +114,24 @@
       <workItem from="1602664133893" duration="262000" />
       <workItem from="1737751078583" duration="44000" />
       <workItem from="1737751171941" duration="1816000" />
-      <workItem from="1737790885890" duration="3805000" />
+      <workItem from="1737790885890" duration="12724000" />
     </task>
+    <task id="LOCAL-00001" summary="Added day 6">
+      <option name="closed" value="true" />
+      <created>1737924808790</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737924808790</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added day 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added day 6" />
   </component>
 </project>
