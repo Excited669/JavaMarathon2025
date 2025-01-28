@@ -15,18 +15,24 @@ public class Task1 {
     public static void main(String[] args) {
 
         StringBuilder res = new StringBuilder();
+        long before = System.currentTimeMillis();
 
-        for (int i = 0; i < 101; i++) {
-            res.append(i);
+        for (int i = 0; i <= 1000; i++) {
+            //res.append(i + " ");
+            res.append(i).append(" ");
         }
         System.out.println(res.toString());
+        long after = System.currentTimeMillis();
+        System.out.println("StringBuilder: " + (after - before));
+
 
         String numbers = "";
 
-        for (int i = 0; i < 101; i++) {
+        for (int i = 0; i <= 1000; i++) {
             numbers += i + " ";
         }
-        //System.out.println(numbers);
+        System.out.println(numbers);
+        System.out.printf("String: " + (after - before));
     }
 
 }
