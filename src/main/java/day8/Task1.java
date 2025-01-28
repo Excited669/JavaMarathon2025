@@ -21,12 +21,12 @@ public class Task1 {
         }
         System.out.println(res.toString());
 
-        String numbers;
+        String numbers = "";
 
         for (int i = 0; i < 101; i++) {
-            numbers = Integer.toString(i);
+            numbers += i + " ";
         }
-        System.out.println(numbers);
+        //System.out.println(numbers);
     }
 
 }
